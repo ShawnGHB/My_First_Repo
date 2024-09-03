@@ -1,1 +1,5 @@
 Texting out Version Control with GitHub
+
+My fav color is green.
+
+Make sure to use actual descriptor words 
